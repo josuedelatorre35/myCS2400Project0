@@ -1,8 +1,10 @@
-[[Open project in Visual Studio Code]](https://github.com/josuedelatorre35/cs2400Project0.git)
-
 # Project 0
 
 Artwork/Artist Lab from CS 1400
+
+# Github Link:
+
+https://github.com/josuedelatorre35/myCS2400Project0.git
 
 ## Student Info
 
@@ -12,5 +14,4 @@ Artwork/Artist Lab from CS 1400
 
 ### Video Demonstration
 
-https://youtu.be/ICuJKfHE-7E
-
+https://youtu.be/A3Lm_MXX4tk
