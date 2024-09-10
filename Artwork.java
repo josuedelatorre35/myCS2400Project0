@@ -37,7 +37,7 @@ public class Artwork {
         if (yearCreated == -1){ //year created unknown
             System.out.println("Title: " + title + ", Year Created Unknown");
         }
-        else{ 
+        else{ //otherwise output year created
         System.out.println("Title: " + title + ", " + yearCreated);
         }
     }
